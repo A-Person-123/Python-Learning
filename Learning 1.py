@@ -1,5 +1,7 @@
 ## First lesson, any task will be written and save here.
 ## Some lines of code are added or modified by me
+
+##This is a shopping cart calculator
 item = input("What would you like to buy? ")
 price = float(input("What price is it? "))
 currency = input("What currency are you using? ")
