@@ -1,4 +1,4 @@
-## First mini project, any task will be written and save here.
+## Second mini project, any task will be written and save here.
 ## Some lines of code are added or modified by me
 ## This lesson is heavily modified by me. only the base functions are from tutorial rest is made by me
 print("Welcome to basic calculator ")
