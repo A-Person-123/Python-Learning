@@ -6,11 +6,11 @@ is_sunny = input("Is it sunny? (Yes or No) ")
 
 if temp >= 15 and is_sunny == "Yes":
     print("It is HOT and SUNNY")
-elif temp <= 14 and is_sunny == ("Yes"):
+elif temp <= 14 and is_sunny == "Yes":
     print("It is COLD and SUNNY ")
-elif temp >= 15 and is_sunny == ("No"):
+elif temp >= 15 and is_sunny == "No":
     print("It is HOT and CLOUDY ")
-elif temp <= 14 and is_sunny == ("No"):
+elif temp <= 14 and is_sunny == "No":
     print("It is COLD and CLOUDY ")
 else:
     print("You did not put 'Yes' or 'No' for 'Is it sunny'")
